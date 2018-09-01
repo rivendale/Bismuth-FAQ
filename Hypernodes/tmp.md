@@ -29,7 +29,7 @@ Install prerequisites:
 `pip3 install -r requirements.txt`
 
 If you have errors with that, do  
-`apt install build-essential python3-dev`  
+`apt install build-essential python3-dev`python3-pip  
 (prefix with sudo if not root)
 
 Then `pip3 install wheel` , then again `pip3 install -r requirements.txt`  
